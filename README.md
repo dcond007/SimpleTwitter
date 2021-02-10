@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='f' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
+<img src='https://github.com/dcond007/SimpleTwitter/blob/master/twitterGif.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
 
 ## Open-source libraries used
 
